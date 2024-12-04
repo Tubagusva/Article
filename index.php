@@ -36,7 +36,7 @@ $result = mysqli_query($conn, "SELECT * FROM artikels");
                         <a class="nav-link" href="index.php">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="./views/create.php">Make Artikel</a>
+                        <a class="nav-link" href="./views/create.php">Make Article</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="./auth/logout.php">Logout</a>
